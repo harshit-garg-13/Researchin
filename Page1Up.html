@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./Page1Up.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=ABeeZee:ital,wght@1,400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@600&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Work Sans:wght@400;500&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Founders Grotesk:wght@500;600;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Khand:wght@400;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Spoqa Han Sans Neo:wght@500&display=swap"
+    />
+  </head>
+  <body>
+    <div class="page-1-up">
+      <img class="image-2-icon4" alt="" src="./public/image-2@2x.png" />
+
+      <div class="page-1-up-child"></div>
+      <div class="page-1-up-item"></div>
+      <div class="researchin4">
+        <span>Research</span>
+        <span class="in4">In</span>
+      </div>
+      <div class="page-1-up-inner" id="rectangle"></div>
+      <div class="page-1-up-child1"></div>
+      <div class="page-1-up-child2" id="rectangle2"></div>
+      <div class="student">Student</div>
+      <div class="corporate">Corporate</div>
+      <div class="professor">Professor</div>
+    </div>
+
+    <script>
+      var rectangle = document.getElementById("rectangle");
+      if (rectangle) {
+        rectangle.addEventListener("click", function (e) {
+          window.location.href = "./LoginPage.html";
+        });
+      }
+      
+      var rectangle2 = document.getElementById("rectangle2");
+      if (rectangle2) {
+        rectangle2.addEventListener("click", function (e) {
+          window.location.href = "./Login.html";
+        });
+      }
+      </script>
+  </body>
+</html>

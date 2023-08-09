@@ -1,0 +1,339 @@
+.students-home-page-child {
+  position: absolute;
+  top: 664px;
+  left: 22px;
+  border-radius: var(--br-7xs);
+  width: 337px;
+  height: 219px;
+  opacity: 0.36;
+}
+.students-home-page-item {
+  position: absolute;
+  top: 747px;
+  left: -62px;
+  background-color: var(--color-gray-300);
+  width: 486px;
+  height: 115px;
+}
+.students-home-page-inner {
+  position: absolute;
+  top: 670px;
+  left: 30px;
+  width: 38px;
+  height: 38px;
+  object-fit: cover;
+}
+.span7 {
+  font-size: var(--font-size-mid);
+}
+.span8 {
+  font-size: var(--font-size-xl);
+}
+.name {
+  top: 668px;
+  display: inline-block;
+  width: 70px;
+  height: 33px;
+}
+.experience,
+.name,
+.research-description-container {
+  position: absolute;
+  left: 80px;
+  font-weight: 500;
+  opacity: 0.4;
+}
+.experience {
+  top: 686px;
+  display: inline-block;
+  width: 118px;
+  height: 33px;
+}
+.research-description-container {
+  top: 704px;
+}
+.ellipse-icon,
+.students-home-page-child1 {
+  position: absolute;
+  top: 850.5px;
+  left: 313.5px;
+  width: 5.71px;
+  height: 9px;
+}
+.ellipse-icon {
+  top: 0;
+  left: 0;
+  width: 207.17px;
+  height: 180.04px;
+  opacity: 0.28;
+}
+.students-home-page-child2 {
+  position: absolute;
+  top: 237px;
+  left: 616.51px;
+  width: 35.42px;
+  height: 36.02px;
+  object-fit: cover;
+}
+.e3 {
+  color: var(--color-darkorange-200);
+}
+.home2 {
+  position: absolute;
+  top: 20px;
+  left: 17px;
+  font-size: 20.13px;
+  font-weight: 600;
+  font-family: var(--font-founders-grotesk);
+  color: var(--color-whitesmoke-200);
+}
+.students-home-page-child3 {
+  position: absolute;
+  top: 104px;
+  left: 22px;
+  border-radius: var(--br-6xs);
+  background-color: var(--color-dimgray);
+  width: 295px;
+  height: 45px;
+}
+.students-home-page-child4 {
+  position: absolute;
+  top: 112px;
+  left: 327px;
+  width: 28.56px;
+  height: 29px;
+  object-fit: cover;
+}
+.search2 {
+  position: absolute;
+  top: 114px;
+  left: 40px;
+  font-weight: 500;
+  display: inline-block;
+  width: 72.45px;
+  height: 33px;
+  opacity: 0.4;
+  font-size: var(--font-size-mid);
+}
+.students-home-page-child5,
+.students-home-page-child6,
+.students-home-page-child7 {
+  position: absolute;
+  top: 188px;
+  left: 22px;
+  border-radius: var(--br-7xs);
+  width: 337px;
+  height: 219px;
+  opacity: 0.36;
+}
+.students-home-page-child6,
+.students-home-page-child7 {
+  top: 426px;
+}
+.students-home-page-child7 {
+  top: 293.5px;
+  left: 500px;
+  height: 103px;
+}
+.students-home-page-child8,
+.students-home-page-child9 {
+  position: absolute;
+  top: 369px;
+  left: 260px;
+  border-radius: 3.73px;
+  background-color: var(--color-gray-200);
+  width: 69px;
+  height: 21px;
+}
+.students-home-page-child9 {
+  top: 607px;
+}
+.students-home-page-child10,
+.students-home-page-child11 {
+  position: absolute;
+  top: 194px;
+  left: 30px;
+  width: 38px;
+  height: 38px;
+  object-fit: cover;
+}
+.students-home-page-child11 {
+  top: 432px;
+}
+.name1,
+.name2 {
+  position: absolute;
+  top: 192px;
+  left: 80px;
+  font-weight: 500;
+  display: inline-block;
+  width: 70px;
+  height: 33px;
+  opacity: 0.4;
+}
+.name2 {
+  top: 430px;
+}
+.apply {
+  top: 371px;
+  left: 272px;
+  font-size: 12.86px;
+  width: 45px;
+  height: 21.21px;
+}
+.apply,
+.apply1,
+.experience1,
+.experience2 {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.apply1 {
+  top: 609px;
+  left: 272px;
+  font-size: 12.86px;
+  width: 45px;
+  height: 21.21px;
+}
+.experience1,
+.experience2 {
+  top: 210px;
+  left: 80px;
+  width: 118px;
+  height: 33px;
+  opacity: 0.4;
+}
+.experience2 {
+  top: 448px;
+}
+.research-description-container1,
+.research-description-container2 {
+  position: absolute;
+  top: 228px;
+  left: 80px;
+  font-weight: 500;
+  opacity: 0.4;
+}
+.research-description-container2 {
+  top: 466px;
+}
+.students-home-page-child12,
+.students-home-page-child13 {
+  position: absolute;
+  top: 180px;
+  left: 372px;
+  border-radius: var(--br-mini-5);
+  background-color: var(--color-gray-100);
+  width: 6.97px;
+  height: 566.9px;
+}
+.students-home-page-child13 {
+  top: 269px;
+  left: 377.69px;
+  background-color: var(--color-darkslategray-100);
+  width: 3.69px;
+  height: 47.91px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.students-home-page-child14,
+.students-home-page-child15,
+.students-home-page-child16 {
+  position: absolute;
+  border-radius: var(--br-3xs) var(--br-3xs) 0 0;
+  background-color: var(--color-whitesmoke-100);
+  opacity: 0.15;
+}
+.students-home-page-child14 {
+  top: 795px;
+  left: -1px;
+  width: 78px;
+  height: 101px;
+  cursor: pointer;
+}
+.students-home-page-child15,
+.students-home-page-child16 {
+  top: 796px;
+  left: 78px;
+  width: 77.82px;
+  height: 111.31px;
+}
+.students-home-page-child16 {
+  left: 157px;
+}
+.students-home-page-child17,
+.students-home-page-child18 {
+  position: absolute;
+  top: 785px;
+  left: 236px;
+  border-radius: var(--br-3xs) var(--br-3xs) 0 0;
+  background-color: var(--color-sandybrown-200);
+  width: 78px;
+  height: 121px;
+}
+.students-home-page-child18 {
+  top: 796px;
+  left: 315px;
+  background-color: var(--color-whitesmoke-100);
+  width: 77.82px;
+  height: 111.31px;
+  opacity: 0.15;
+  cursor: pointer;
+}
+.mask-group-icon3,
+.students-home-page-child19 {
+  position: absolute;
+  top: 807px;
+  left: 181px;
+  width: 32px;
+  height: 32.44px;
+  object-fit: cover;
+}
+.students-home-page-child19 {
+  top: 800px;
+  left: 256px;
+  width: 37.07px;
+  height: 38px;
+}
+.students-home-page-child20,
+.students-home-page-child21 {
+  position: absolute;
+  top: 804px;
+  left: 19px;
+  width: 37px;
+  height: 37px;
+  object-fit: cover;
+}
+.students-home-page-child21 {
+  left: 333px;
+  width: 41.3px;
+  height: 38px;
+  cursor: pointer;
+}
+.students-home-page-child22 {
+  position: absolute;
+  top: 800px;
+  left: 96px;
+  width: 42px;
+  height: 41px;
+  object-fit: cover;
+}
+.students-home-page-child23 {
+  position: absolute;
+  top: 374.5px;
+  left: 313.5px;
+  width: 5.71px;
+  height: 10px;
+}
+.students-home-page {
+  position: relative;
+  background-color: var(--color-gray-300);
+  width: 100%;
+  height: 852px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-white);
+  font-family: var(--font-work-sans);
+}

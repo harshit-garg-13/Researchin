@@ -1,0 +1,188 @@
+.professor-profile2-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 207.17px;
+  height: 180.04px;
+  opacity: 0.28;
+}
+.professor-profile2-item {
+  position: absolute;
+  top: 237px;
+  left: 616.51px;
+  width: 35.42px;
+  height: 36.02px;
+  object-fit: cover;
+}
+.span91 {
+  font-size: var(--font-size-xl);
+}
+.field-of-research-container5 {
+  position: absolute;
+  top: 113px;
+  left: 32px;
+  font-weight: 500;
+}
+.recent-publications-container,
+.thesis-structure-container {
+  position: absolute;
+  top: 281px;
+  left: 32px;
+  font-weight: 500;
+}
+.thesis-structure-container {
+  top: 457px;
+}
+.professor-profile2-inner {
+  position: absolute;
+  top: 113px;
+  left: 292px;
+  width: 24.6px;
+  height: 23px;
+  object-fit: cover;
+}
+.professor-profile2-child1,
+.professor-profile2-child2 {
+  position: absolute;
+  top: 280.93px;
+  left: 291.94px;
+  width: 24.73px;
+  height: 23.14px;
+  object-fit: cover;
+}
+.professor-profile2-child2 {
+  top: 457px;
+  left: 292px;
+}
+.professor-profile2-child3,
+.professor-profile2-child4,
+.professor-profile2-child5 {
+  position: absolute;
+  top: 113px;
+  left: 332px;
+  width: 23px;
+  height: 23px;
+  object-fit: cover;
+}
+.professor-profile2-child4,
+.professor-profile2-child5 {
+  top: 281px;
+}
+.professor-profile2-child5 {
+  top: 457.07px;
+  left: 332.06px;
+}
+.professor-profile2-child6,
+.professor-profile2-child7,
+.professor-profile2-child8 {
+  position: absolute;
+  top: 147px;
+  left: 32px;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-whitesmoke-200);
+  width: 329px;
+  height: 103px;
+  opacity: 0.36;
+}
+.professor-profile2-child7,
+.professor-profile2-child8 {
+  top: 315px;
+}
+.professor-profile2-child8 {
+  top: 511px;
+}
+.e8 {
+  color: var(--color-darkorange-100);
+}
+.profile2 {
+  position: absolute;
+  top: 17px;
+  left: 14px;
+  font-size: 20.13px;
+  font-weight: 600;
+  font-family: var(--font-founders-grotesk);
+  color: var(--color-whitesmoke-200);
+}
+.professor-profile2-child9 {
+  position: absolute;
+  top: 785px;
+  left: -1px;
+  border-radius: var(--br-3xs) var(--br-3xs) 0 0;
+  background-color: var(--color-sandybrown-200);
+  width: 77.82px;
+  height: 111.31px;
+}
+.professor-profile2-child10,
+.professor-profile2-child11,
+.professor-profile2-child12,
+.professor-profile2-child13 {
+  position: absolute;
+  top: 796px;
+  left: 78px;
+  border-radius: var(--br-3xs) var(--br-3xs) 0 0;
+  background-color: var(--color-whitesmoke-100);
+  width: 77.82px;
+  height: 111.31px;
+  opacity: 0.15;
+}
+.professor-profile2-child11,
+.professor-profile2-child12,
+.professor-profile2-child13 {
+  left: 157px;
+}
+.professor-profile2-child12,
+.professor-profile2-child13 {
+  left: 236px;
+}
+.professor-profile2-child13 {
+  left: 315px;
+}
+.mask-group-icon8 {
+  position: absolute;
+  top: 807px;
+  left: 181px;
+  width: 32px;
+  height: 32.44px;
+  object-fit: cover;
+}
+.professor-profile2-child14,
+.professor-profile2-child15 {
+  position: absolute;
+  top: 807px;
+  left: 256px;
+  width: 37.07px;
+  height: 38px;
+  object-fit: cover;
+}
+.professor-profile2-child15 {
+  top: 804px;
+  left: 19px;
+  width: 37px;
+  height: 37px;
+}
+.professor-profile2-child16,
+.professor-profile2-child17 {
+  position: absolute;
+  top: 804px;
+  left: 333px;
+  width: 41.3px;
+  height: 38px;
+  object-fit: cover;
+}
+.professor-profile2-child17 {
+  top: 800px;
+  left: 96px;
+  width: 42px;
+  height: 41px;
+}
+.professor-profile2 {
+  position: relative;
+  background-color: var(--color-gray-300);
+  width: 100%;
+  height: 852px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-mid);
+  color: var(--color-white);
+  font-family: var(--font-work-sans);
+}

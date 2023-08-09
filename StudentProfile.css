@@ -1,0 +1,328 @@
+.student-profile-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 207.17px;
+  height: 180.04px;
+  opacity: 0.28;
+}
+.e11 {
+  color: var(--color-darkorange-100);
+}
+.profile5 {
+  position: absolute;
+  top: 17px;
+  left: 14px;
+  font-size: 20.13px;
+  font-weight: 600;
+  font-family: var(--font-founders-grotesk);
+  color: var(--color-whitesmoke-200);
+}
+.student-profile-item {
+  position: absolute;
+  top: 68px;
+  left: 116px;
+  border-radius: 50%;
+  background-color: var(--color-darkgray);
+  width: 161px;
+  height: 163px;
+}
+.student-profile-inner {
+  position: absolute;
+  top: 61px;
+  left: 109px;
+  border-radius: 50%;
+  border: 1px solid var(--color-bisque);
+  box-sizing: border-box;
+  width: 175px;
+  height: 177px;
+}
+.student-profile-child1 {
+  position: absolute;
+  top: 147.5px;
+  left: 0;
+  width: 414px;
+  height: 103.69px;
+}
+.student-profile-child2,
+.student-profile-child3,
+.student-profile-child4,
+.student-profile-child5 {
+  position: absolute;
+  top: 176px;
+  left: 54px;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-gainsboro-100);
+  width: 34px;
+  height: 34px;
+  opacity: 0.08;
+}
+.student-profile-child3,
+.student-profile-child4,
+.student-profile-child5 {
+  top: 173px;
+  left: 344px;
+}
+.student-profile-child4,
+.student-profile-child5 {
+  top: 176px;
+  left: 15px;
+}
+.student-profile-child5 {
+  top: 173px;
+  left: 305px;
+}
+.span102 {
+  font-size: var(--font-size-xl);
+}
+.email2,
+.name14 {
+  position: absolute;
+  top: 273px;
+  left: 32px;
+  font-weight: 500;
+}
+.email2 {
+  top: 319px;
+}
+.experiences1,
+.mob-no1,
+.research-interest-container {
+  position: absolute;
+  top: 429px;
+  left: 32px;
+  font-weight: 500;
+}
+.mob-no1,
+.research-interest-container {
+  top: 582px;
+}
+.mob-no1 {
+  top: 380px;
+}
+.mask-group-icon15,
+.student-profile-child6 {
+  position: absolute;
+  top: 178.46px;
+  left: 17.46px;
+  width: 28.71px;
+  height: 28.71px;
+  object-fit: cover;
+}
+.student-profile-child6 {
+  left: 56.01px;
+  width: 29.53px;
+  height: 27.07px;
+}
+.mask-group-icon16,
+.student-profile-child7 {
+  position: absolute;
+  top: 85.5px;
+  left: 137.18px;
+  width: 119.72px;
+  height: 119.72px;
+  object-fit: cover;
+}
+.mask-group-icon16 {
+  top: 177px;
+  left: 310px;
+  width: 25px;
+  height: 25px;
+}
+.student-profile-child8,
+.student-profile-child9 {
+  position: absolute;
+  top: 237px;
+  left: 616.51px;
+  width: 35.42px;
+  height: 36.02px;
+  object-fit: cover;
+}
+.student-profile-child9 {
+  top: 177px;
+  left: 349px;
+  width: 24px;
+  height: 24px;
+}
+.student-profile-child10,
+.student-profile-child11,
+.student-profile-child12,
+.student-profile-child13 {
+  position: absolute;
+  top: 611px;
+  left: 48px;
+  border-radius: 8.33px;
+  background-color: var(--color-dimgray);
+  width: 137.5px;
+  height: 25px;
+}
+.student-profile-child11,
+.student-profile-child12,
+.student-profile-child13 {
+  top: 651px;
+}
+.student-profile-child12,
+.student-profile-child13 {
+  top: 611px;
+  left: 221px;
+}
+.student-profile-child13 {
+  top: 649px;
+}
+.student-profile-child14 {
+  position: absolute;
+  top: 468px;
+  left: 32px;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-whitesmoke-200);
+  width: 329px;
+  height: 103px;
+  opacity: 0.36;
+}
+.ellipse-div,
+.student-profile-child15,
+.student-profile-child16,
+.student-profile-child17 {
+  position: absolute;
+  top: 616.56px;
+  left: 164.67px;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro-100);
+  width: 13.89px;
+  height: 13.89px;
+}
+.student-profile-child15,
+.student-profile-child16,
+.student-profile-child17 {
+  top: 656.56px;
+}
+.student-profile-child16,
+.student-profile-child17 {
+  top: 616.56px;
+  left: 337.67px;
+}
+.student-profile-child17 {
+  top: 655px;
+  left: 337px;
+}
+.student-profile-child18,
+.student-profile-child19 {
+  position: absolute;
+  top: 619.75px;
+  left: 167.83px;
+  width: 7.56px;
+  height: 8.2px;
+}
+.student-profile-child19 {
+  top: 659.75px;
+}
+.student-profile-child20,
+.student-profile-child21 {
+  position: absolute;
+  top: 619.75px;
+  left: 340.83px;
+  width: 7.56px;
+  height: 8.2px;
+}
+.student-profile-child21 {
+  top: 657.72px;
+  left: 340.69px;
+}
+.student-profile-child22 {
+  position: absolute;
+  top: 785px;
+  left: -1px;
+  border-radius: var(--br-3xs) var(--br-3xs) 0 0;
+  background-color: var(--color-sandybrown-200);
+  width: 77.82px;
+  height: 111.31px;
+}
+.student-profile-child23,
+.student-profile-child24,
+.student-profile-child25,
+.student-profile-child26 {
+  position: absolute;
+  top: 796px;
+  left: 78px;
+  border-radius: var(--br-3xs) var(--br-3xs) 0 0;
+  background-color: var(--color-whitesmoke-100);
+  width: 77.82px;
+  height: 111.31px;
+  opacity: 0.15;
+  cursor: pointer;
+}
+.student-profile-child24,
+.student-profile-child25,
+.student-profile-child26 {
+  left: 157px;
+}
+.student-profile-child25,
+.student-profile-child26 {
+  left: 236px;
+}
+.student-profile-child26 {
+  left: 315px;
+}
+.mask-group-icon17 {
+  position: absolute;
+  top: 807px;
+  left: 181px;
+  width: 32px;
+  height: 32.44px;
+  object-fit: cover;
+}
+.student-profile-child27,
+.student-profile-child28 {
+  position: absolute;
+  top: 807px;
+  left: 256px;
+  width: 37.07px;
+  height: 38px;
+  object-fit: cover;
+}
+.student-profile-child28 {
+  top: 804px;
+  left: 19px;
+  width: 37px;
+  height: 37px;
+}
+.student-profile-child29,
+.student-profile-child30 {
+  position: absolute;
+  top: 804px;
+  left: 333px;
+  width: 41.3px;
+  height: 38px;
+  object-fit: cover;
+}
+.student-profile-child30 {
+  top: 800px;
+  left: 96px;
+  width: 42px;
+  height: 41px;
+  cursor: pointer;
+}
+.student-profile-child31,
+.student-profile-child32 {
+  position: absolute;
+  top: 426px;
+  left: 293px;
+  width: 24.6px;
+  height: 23px;
+  object-fit: cover;
+}
+.student-profile-child32 {
+  left: 333px;
+  width: 23px;
+}
+.student-profile {
+  position: relative;
+  background-color: var(--color-gray-300);
+  width: 100%;
+  height: 852px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-mid);
+  color: var(--color-white);
+  font-family: var(--font-work-sans);
+}

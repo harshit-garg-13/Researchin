@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-abeezee: ABeeZee;
+  --font-founders-grotesk: "Founders Grotesk";
+  --font-work-sans: "Work Sans";
+  --font-spoqa-han-sans-neo: "Spoqa Han Sans Neo";
+  --font-khand: Khand;
+
+  /* font sizes */
+  --font-size-13xl: 32px;
+  --font-size-35xl-6: 54.6px;
+  --font-size-xl-1: 20.1px;
+  --font-size-xl: 20px;
+  --font-size-mid: 17px;
+  --font-size-mini: 15px;
+  --font-size-smi-9: 12.9px;
+  --font-size-3xl: 22px;
+  --font-size-21xl: 40px;
+
+  /* Colors */
+  --color-gray-100: #252432;
+  --color-gray-200: #23262f;
+  --color-gray-300: #17181c;
+  --color-gray-400: rgba(255, 255, 255, 0.5);
+  --color-sandybrown-100: #f89448;
+  --color-sandybrown-200: #f69448;
+  --color-white: #fff;
+  --color-whitesmoke-100: #f0f0f0;
+  --color-whitesmoke-200: #ececec;
+  --color-darkorange-100: #fe812c;
+  --color-darkorange-200: #fe802b;
+  --color-gainsboro-100: #d9d9d9;
+  --color-darkslategray-100: #41404e;
+  --color-darkslategray-200: #38383c;
+  --color-dimgray: #646467;
+  --color-bisque: #ffe1cc;
+  --color-darkgray: #999;
+  --color-silver: rgba(201, 197, 197, 0.5);
+
+  /* border radiuses */
+  --br-8xl: 27px;
+  --br-3xs: 10px;
+  --br-7xs: 6px;
+  --br-mini-5: 14.5px;
+  --br-9xs-7: 3.7px;
+  --br-6xs: 7px;
+  --br-10xs: 3px;
+  --br-4xs-3: 8.3px;
+  --br-4xl: 23px;
+}

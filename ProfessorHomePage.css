@@ -1,0 +1,373 @@
+.professor-home-page-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 207.17px;
+  height: 180.04px;
+  opacity: 0.28;
+}
+.professor-home-page-item {
+  position: absolute;
+  top: 237px;
+  left: 616.51px;
+  width: 35.42px;
+  height: 36.02px;
+  object-fit: cover;
+}
+.e6 {
+  color: var(--color-darkorange-200);
+}
+.home5 {
+  position: absolute;
+  top: 20px;
+  left: 17px;
+  font-size: 20.13px;
+  font-weight: 600;
+  font-family: var(--font-founders-grotesk);
+  color: var(--color-whitesmoke-200);
+}
+.professor-home-page-inner {
+  position: absolute;
+  top: 104px;
+  left: 22px;
+  border-radius: var(--br-6xs);
+  background-color: var(--color-dimgray);
+  width: 295px;
+  height: 45px;
+}
+.professor-home-page-child1 {
+  position: absolute;
+  top: 112px;
+  left: 327px;
+  width: 28.56px;
+  height: 29px;
+  object-fit: cover;
+}
+.span58 {
+  font-size: var(--font-size-xl);
+}
+.search5 {
+  position: absolute;
+  top: 114px;
+  left: 40px;
+  font-weight: 500;
+  display: inline-block;
+  width: 72.45px;
+  height: 33px;
+  opacity: 0.4;
+  font-size: var(--font-size-mid);
+}
+.professor-home-page-child2,
+.professor-home-page-child3 {
+  position: absolute;
+  top: 180px;
+  left: 22px;
+  border-radius: var(--br-7xs);
+  width: 337px;
+  height: 103px;
+  opacity: 0.36;
+}
+.professor-home-page-child3 {
+  top: 296px;
+}
+.professor-home-page-child4,
+.professor-home-page-child5,
+.professor-home-page-child6 {
+  position: absolute;
+  top: 529px;
+  left: 19px;
+  border-radius: var(--br-7xs);
+  width: 337px;
+  height: 103px;
+  opacity: 0.36;
+}
+.professor-home-page-child5,
+.professor-home-page-child6 {
+  top: 644px;
+}
+.professor-home-page-child6 {
+  top: 414px;
+}
+.professor-home-page-child7,
+.professor-home-page-child8 {
+  position: absolute;
+  top: 194px;
+  left: 30px;
+  width: 75px;
+  height: 75px;
+  object-fit: cover;
+}
+.professor-home-page-child8 {
+  top: 310px;
+}
+.professor-home-page-child10,
+.professor-home-page-child11,
+.professor-home-page-child9 {
+  position: absolute;
+  top: 543px;
+  left: 27px;
+  width: 75px;
+  height: 75px;
+  object-fit: cover;
+}
+.professor-home-page-child10,
+.professor-home-page-child11 {
+  top: 658px;
+}
+.professor-home-page-child11 {
+  top: 428px;
+}
+.span59 {
+  font-size: var(--font-size-mid);
+}
+.department,
+.department1,
+.name10,
+.name11,
+.name12,
+.name8,
+.name9 {
+  position: absolute;
+  top: 194px;
+  left: 112px;
+  font-weight: 500;
+  display: inline-block;
+  width: 70px;
+  height: 33px;
+  opacity: 0.4;
+}
+.department,
+.department1,
+.name10,
+.name11,
+.name12,
+.name9 {
+  top: 310px;
+}
+.department,
+.department1,
+.name10,
+.name11,
+.name12 {
+  top: 543px;
+  left: 109px;
+}
+.department,
+.department1,
+.name11,
+.name12 {
+  top: 658px;
+}
+.department,
+.department1,
+.name12 {
+  top: 428px;
+}
+.department,
+.department1 {
+  top: 210px;
+  left: 112px;
+  width: 118px;
+}
+.department1 {
+  top: 326px;
+}
+.department2,
+.department3,
+.department4,
+.experience3,
+.experience4,
+.experience5,
+.experience6,
+.experience7 {
+  position: absolute;
+  top: 559px;
+  left: 109px;
+  font-weight: 500;
+  display: inline-block;
+  width: 118px;
+  height: 33px;
+  opacity: 0.4;
+}
+.department3,
+.department4,
+.experience3,
+.experience4,
+.experience5,
+.experience6,
+.experience7 {
+  top: 674px;
+}
+.department4,
+.experience3,
+.experience4,
+.experience5,
+.experience6,
+.experience7 {
+  top: 444px;
+}
+.experience3,
+.experience4,
+.experience5,
+.experience6,
+.experience7 {
+  top: 228px;
+  left: 112px;
+}
+.experience4,
+.experience5,
+.experience6,
+.experience7 {
+  top: 344px;
+}
+.experience5,
+.experience6,
+.experience7 {
+  top: 577px;
+  left: 109px;
+}
+.experience6,
+.experience7 {
+  top: 692px;
+}
+.experience7 {
+  top: 462px;
+}
+.professor-home-page-child12,
+.professor-home-page-child13 {
+  position: absolute;
+  top: 222.33px;
+  left: 332.08px;
+  width: 10.61px;
+  height: 19.33px;
+}
+.professor-home-page-child13 {
+  top: 338.33px;
+}
+.professor-home-page-child14,
+.professor-home-page-child15,
+.professor-home-page-child16 {
+  position: absolute;
+  top: 571.33px;
+  left: 329.08px;
+  width: 10.61px;
+  height: 19.33px;
+}
+.professor-home-page-child15,
+.professor-home-page-child16 {
+  top: 686.33px;
+}
+.professor-home-page-child16 {
+  top: 456.33px;
+}
+.professor-home-page-child17,
+.professor-home-page-child18 {
+  position: absolute;
+  top: 180px;
+  left: 372px;
+  border-radius: var(--br-mini-5);
+  background-color: var(--color-gray-100);
+  width: 6.97px;
+  height: 566.9px;
+}
+.professor-home-page-child18 {
+  top: 188.33px;
+  left: 377.33px;
+  background-color: var(--color-darkslategray-100);
+  width: 3.69px;
+  height: 47.91px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.professor-home-page-child19,
+.professor-home-page-child20 {
+  top: 796px;
+  background-color: var(--color-whitesmoke-100);
+  opacity: 0.15;
+}
+.professor-home-page-child19 {
+  position: absolute;
+  left: -1px;
+  border-radius: var(--br-3xs) var(--br-3xs) 0 0;
+  width: 78px;
+  height: 100px;
+}
+.professor-home-page-child20 {
+  left: 78px;
+}
+.professor-home-page-child20,
+.professor-home-page-child21,
+.professor-home-page-child22,
+.professor-home-page-child23 {
+  position: absolute;
+  border-radius: var(--br-3xs) var(--br-3xs) 0 0;
+  width: 77.82px;
+  height: 111.31px;
+}
+.professor-home-page-child21 {
+  top: 796px;
+  left: 157px;
+  background-color: var(--color-whitesmoke-100);
+  opacity: 0.15;
+}
+.professor-home-page-child22,
+.professor-home-page-child23 {
+  top: 783px;
+  left: 236px;
+  background-color: var(--color-sandybrown-200);
+}
+.professor-home-page-child23 {
+  top: 796px;
+  left: 315px;
+  background-color: var(--color-whitesmoke-100);
+  opacity: 0.15;
+}
+.mask-group-icon6 {
+  position: absolute;
+  top: 807px;
+  left: 181px;
+  width: 32px;
+  height: 32.44px;
+  object-fit: cover;
+}
+.professor-home-page-child24,
+.professor-home-page-child25 {
+  position: absolute;
+  top: 801px;
+  left: 256px;
+  width: 37.07px;
+  height: 38px;
+  object-fit: cover;
+}
+.professor-home-page-child25 {
+  top: 804px;
+  left: 19px;
+  width: 37px;
+  height: 37px;
+}
+.professor-home-page-child26,
+.professor-home-page-child27 {
+  position: absolute;
+  top: 804px;
+  left: 333px;
+  width: 41.3px;
+  height: 38px;
+  object-fit: cover;
+}
+.professor-home-page-child27 {
+  top: 800px;
+  left: 96px;
+  width: 42px;
+  height: 41px;
+}
+.professor-home-page {
+  position: relative;
+  background-color: var(--color-gray-300);
+  width: 100%;
+  height: 852px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-white);
+  font-family: var(--font-work-sans);
+}
